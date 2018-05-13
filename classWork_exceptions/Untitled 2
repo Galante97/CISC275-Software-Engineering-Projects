@@ -1,0 +1,7 @@
+ Error: a subclass of Throwable that indicates serious problems that a reasonable application should not try to catch
+ 
+ Exception: is a form of Throwable that indicates conditions that a reasonable application might want to catch
+ 
+ Throwable: the superclass of all errors and exceptions in the Java language, two subclasses, Error and Exception
+ 
+ RuntimeException: extends exception, RuntimeException is the superclass of those exceptions that can be thrown during the normal operation of the Java Virtual Machine.
